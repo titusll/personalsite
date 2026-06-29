@@ -1,0 +1,72 @@
+[
+  {
+    "id": "my-own-summer-deftones",
+    "title": "My Own Summer (Shove It)",
+    "artist": "Deftones",
+    "lines": [
+      "I think God is moving its tongue",
+      "Hey you, big mood",
+      "The shade is a tool, a device, a savior",
+      "Hey you, big star",
+      "'Cause I'm through when the two hits the six",
+      "(The sun) shove it, shove it, shove it!"
+    ],
+    "acceptedAnswers": ["my own summer", "my own summer shove it", "my own summer (shove it)", "shove it"]
+  },
+  {
+    "id": "whisper-my-name-drake",
+    "title": "Whisper My Name",
+    "artist": "Drake",
+    "lines": [
+      "You can't even speak",
+      "Ashes to ashes, dust to dust",
+      "The dustiest niggas been fuckin' with us",
+      "Am I a GOAT? Well, probably not",
+      "My white label had to go white label shit",
+      "You gotta whisper my name (my name)"
+    ],
+    "acceptedAnswers": ["whisper my name"]
+  },
+  {
+    "id": "jaded-drake",
+    "title": "Jaded",
+    "artist": "Drake",
+    "lines": [
+      "I wanna be around while you chasin' (while you chasin' it)",
+      "Dogs on this side, dogs over on this side",
+      "Leaving me (leaving me), dippin' out on me (on me)",
+      "Already got what you needed, I guess",
+      "Still got love for you, mami",
+      "Yes, I'm hurting, yes, I'm jaded (jaded)"
+    ],
+    "acceptedAnswers": ["jaded"]
+  },
+  {
+    "id": "live-forever-oasis",
+    "title": "Live Forever",
+    "artist": "Oasis",
+    "lines": [
+      "We see things they'll never see",
+      "Maybe I don't really wanna know",
+      "How your garden grows",
+      "Lately, did you ever feel the pain",
+      "In the morning rain",
+      "You and I are gonna live forever"
+    ],
+    "acceptedAnswers": ["live forever"]
+  },
+  {
+    "id": "around-the-fur-deftones",
+    "title": "Around the Fur",
+    "artist": "Deftones",
+    "lines": [
+      "Should I ignore the fashion or go by the book?",
+      "Hey vanity, this vial's empty and so are you",
+      "Prostitute, climb back down from the floor",
+      "Please don't fuck around and die like this",
+      "Speak, I don't get it",
+      "Coming back around the fur"
+    ],
+    "acceptedAnswers": ["around the fur"]
+  }
+]

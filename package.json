@@ -1,0 +1,13 @@
+{
+  "name": "daily-games",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:lyricle": "npm run dev -w apps/lyricle",
+    "build:lyricle": "npm run build -w apps/lyricle"
+  }
+}
